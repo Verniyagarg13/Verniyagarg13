@@ -1,12 +1,12 @@
-# 💫 Hi 👋, I'm Verniya Garg  
-### 🚀 AI/ML Enthusiast | Future Software Engineer from India 🇮🇳
+<h1 align="center">Hi 👋, I'm Verniya Garg</h1>
+<h3 align="center">A passionate Artificial Intelligence Enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌸 Passionate about building impactful tech solutions using Artificial Intelligence and Machine Learning.  
-💡 I love solving real-world problems through code, creativity, and innovation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivya3&label=Profile%20views&color=0e75b6&style=flat" alt="shivya3" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 ## 🌟 About Me
 
@@ -26,7 +26,7 @@
   Python • AI/ML • GitHub • Tech Projects • Student Development
 
 - 📫 **Reach Me At:**  
-  ✉️ yourmail@gmail.com
+  ✉️ varenyagarg13@gmail.com
 
 - ⚡ **Fun Fact:**  
   I can spend hours debugging code and still call it “fun.” 😄
