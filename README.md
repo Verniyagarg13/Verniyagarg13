@@ -27,7 +27,9 @@
 
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varenyagarg13@gmail.com) 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivya-garg-b92758200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivya-garg-b92758200/" height="30" width="40" /></a>
+</p>
 
 
 <div align="center">
