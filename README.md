@@ -22,9 +22,6 @@
 - 💬 **Ask Me About:**  
   Python • AI/ML • GitHub • Tech Projects • Student Development
 
-- 📫 **Reach Me At:**  
-  ✉️ varenyagarg13@gmail.com
-
 - ⚡ **Fun Fact:**  
   I can spend hours debugging code and still call it “fun.” 😄
 
